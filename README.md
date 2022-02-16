@@ -1,3 +1,9 @@
+# Test front end app using OCR Api
+Lets you see how well the PDF slice + OCR engine does on sample pdfs
+
+- Visit http://ocr-sample-app.s3-website-us-east-1.amazonaws.com/ to give it a go
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
