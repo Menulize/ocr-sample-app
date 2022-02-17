@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+@font-face {
+  font-family: "Luckiest Guy Regular";
+  src: local("LuckiestGuyRegular"),
+    url("./LuckiestGuy-Regular.ttf") format("truetype");
+  font-weight: normal;       
+}
+.brand-text {
+  font-family: "Luckiest Guy Regular"
+}
